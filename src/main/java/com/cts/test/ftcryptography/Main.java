@@ -724,7 +724,9 @@ public class Main {
 //            "    \"deviceName\": \"MY BEST PHONE1 with Loooong Name\",\n" +
 //            "    \"deviceName\": \"4p2k77iP0J_QvtC70Y7RgdGP4p2k77iP\",\n" +
 //            "    \"deviceName\": \"aVBob25lIDEy\",\n" +
-            "    \"deviceName\": \"aVBob25lIDEyIG1pbmk.\",\n" +
+//            "    \"deviceName\": \"aVBob25lIDEyIG1pbmk.\",\n" +
+            "    \"deviceName\": \"Мой телефон 2 (Рус)\",\n" +
+//            "    \"deviceName\": \"My phone 3 (Eng)\",\n" +
             "    \"deviceNumber\": \"380507534412\",\n" +
             "    \"deviceLanguageCode\": \"en\",\n" +
             "    \"deviceIDType\": \"SecureElement\",\n" +
