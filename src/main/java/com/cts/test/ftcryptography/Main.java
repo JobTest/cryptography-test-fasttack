@@ -721,12 +721,13 @@ public class Main {
             "  },\n" +
             "  \"deviceInfo\": {\n" +
             "    \"deviceID\": \"04312E7B342C80014328036811932950DA075B1C4DC45F7C\",\n" +
-            "    \"deviceName\": \"MY BEST PHONE1 with Loooooooooooooooooooooooooooooong Name\",\n" +
+//            "    \"deviceName\": \"MY BEST PHONE1 with Loooooooooooooooooooooooooooooong Name\",\n" +
 //            "    \"deviceName\": \"4p2k77iP0J_QvtC70Y7RgdGP4p2k77iP\",\n" +
 //            "    \"deviceName\": \"aVBob25lIDEy\",\n" +
 //            "    \"deviceName\": \"aVBob25lIDEyIG1pbmk.\",\n" +
 //            "    \"deviceName\": \"Мой телефон 2 (Рус)\",\n" +
 //            "    \"deviceName\": \"My phone 3 (Eng)\",\n" +
+            "    \"deviceName\": \"SgIsbA..\",\n" +
             "    \"deviceNumber\": \"380507534412\",\n" +
             "    \"deviceLanguageCode\": \"en\",\n" +
             "    \"deviceIDType\": \"SecureElement\",\n" +
