@@ -745,6 +745,8 @@ public class Main {
             "  },\n" +
             "  \"riskInformation\": {\n" +
             "    \"walletProviderRiskAssessment\": \"\",\n" +
+//            "    \"walletProviderRiskAssessment\": \"0\",\n" +
+//            "    \"walletProviderRiskAssessment\": \"2\",\n" +
             "    \"walletProviderRiskAssessmentVersion\": \"\",\n" +
             "    \"walletProviderAccountScore\": \"\",\n" +
             "    \"walletProviderDeviceScore\": \"\",\n" +
