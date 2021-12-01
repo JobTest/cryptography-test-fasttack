@@ -746,11 +746,15 @@ public class Main {
             "  \"riskInformation\": {\n" +
             "    \"walletProviderRiskAssessment\": \"\",\n" +
 //            "    \"walletProviderRiskAssessment\": \"0\",\n" +
+//            "    \"walletProviderRiskAssessment\": \"1\",\n" +
 //            "    \"walletProviderRiskAssessment\": \"2\",\n" +
             "    \"walletProviderRiskAssessmentVersion\": \"\",\n" +
             "    \"walletProviderAccountScore\": \"\",\n" +
-            "    \"walletProviderDeviceScore\": \"\",\n" +
+//            "    \"walletProviderDeviceScore\": \"\",\n" +
+            "    \"walletProviderDeviceScore\": \"1\",\n" +
             "    \"walletProviderReasonCodes\": \"01,02,0G,0F\",\n" +
+//            "    \"walletProviderReasonCodes\": \"01,02,0F\",\n" +
+//            "    \"walletProviderReasonCodes\": \"\",\n" +
             "    \"deviceBluetoothMac\": \"\",\n" +
             "    \"deviceIMEI\": \"\",\n" +
             "    \"deviceSerialNumber\": \"\",\n" +
